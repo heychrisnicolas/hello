@@ -4,15 +4,17 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat)
 ![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?logo=supabase&logoColor=white&style=flat)
 <br>
 
 ## About Me
 
-🌈 Design leader @ Cisco Systems, Inc.\
-📍 Located somewhere in the United States 🇺🇸\
+📍 Dallas-Fort Worth, TX 🇺🇸\
+🤓 Design leader @ Cisco Systems, Inc.\
 ⛰️ Hiking, mountain biking, snowboarding, and fly fishing are goated\
-🏎️ Add me on RocketLeague @GoodGuyMuppet
+🏎️ RocketLeague, PUBGM, Call of Duty Mobile\
+📬 hey@chrisnicolas.me
 
 > Spending my time learning and building new things to expand my horizons\
 > Looking for cool people who like to build cool things
