@@ -23,6 +23,7 @@
 
 ## Current Projects
 
+- 🌈 **[Retals.dev](https://retals.dev)** - Scalabe, theme-first design system for use across my projects
 - 🤓 **[Personal portfolio](https://chrisnicolas.me)** - Building my personal brand and sharing my process
 <br>
 
